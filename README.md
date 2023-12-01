@@ -1,4 +1,4 @@
-👋 Hello, I'm SDWhiteHatExpert, an AI Cyber Security Developer and Security Professional passionate about making the digital world a safer place. With a strong background in cybersecurity, I'm committed to creating innovative solutions to protect data and systems from emerging threats.
+👋 Hello, I'm TECHY SDX, an AI Cyber Security Developer and Security Professional passionate about making the digital world a safer place. With a strong background in cybersecurity, I'm committed to creating innovative solutions to protect data and systems from emerging threats.
 
 Skills
 Here are some of my key skills:
