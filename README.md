@@ -25,3 +25,6 @@
 [![](https://visitcount.itsvg.in/api?id=SDWhiteHatExpert&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Support Me is an open-source platform designed to connect creators with their supporters. Developed with a focus on simplicity and functionality, Support Me allows creators to receive financial support, share exclusive content, and engage with their community.
+
